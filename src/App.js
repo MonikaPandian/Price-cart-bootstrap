@@ -2,7 +2,6 @@ import React from "react";
 import Free from './Free';
 import Plus from './Plus';
 import Pro from './Pro';
-import './index.css';
 
 const App = () =>{
   return (
@@ -17,6 +16,5 @@ const App = () =>{
   </section>
   )
 }
-
 
 export default App;
