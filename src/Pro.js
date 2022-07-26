@@ -27,6 +27,6 @@ const Pro = () =>{
           </div>
         </div>
     );
-};
+}
 
 export default Pro;
